@@ -1,0 +1,7 @@
+Code : -
+
+print("My First Python Program")
+
+Output : -
+
+My First Python Program
